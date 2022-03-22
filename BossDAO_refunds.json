@@ -1,0 +1,78 @@
+{
+    "addr1q9ngejfu90dew6j0gkcsfqwswjed0zvr4w2dd6sd6tn9rpyf48pqwqgkf4nv7zjp9ttelnxlyww8sl2xqmav4pjmud7sf7uzpu": {
+        "refunds": [
+            {
+                "originalTx": "413a4d83db5cb55d474cb9095279e9d5627ef4968dea350086af40dd1c9bca47",
+                "refundTx": "f8c60eee4f2fd578365c4857ae4ff03181eca593f398cfec34f42351bc8b9e07"
+            }
+        ]
+    },
+    "addr1qxrpz22rff6agxs8f730zquv7lgeue0dtzj5cw6lf7hhdaz3tndy8l422g5e8zrhk0an4hwdm98w7l75euatajmdrm0q4lp5u5": {
+        "refunds": [
+            {
+                "originalTx": "5909e4c3da86693bb2426f2218090b719ffecffb6274e93af44d64f2cc7da969",
+                "refundTx": "8f2c2e1c29e90d52ca31126148ce578d3a26693f956bf2c3c178a92651911ef5"
+            }
+        ]
+    },
+    "addr1q90yez8svug39ktn7vryhp87dq3qja0873xxxmne7u3zlr4t72vfa6ww78khmqkl242ukzyn3vx5wmpmfplxegq2xw9q545ank": {
+        "refunds": [
+            {
+                "originalTx": "6694eee8169d330141f7ce96e7ef801a791414346f2baf74b134e9bb17929015",
+                "refundTx": "b8c14e22fdcc6aaadec013583bd6a5731de10aa26e731b80e7a50c40d5cb4856"
+            }
+        ]
+    },
+    "addr1qxrygy94qfdr83hdtnxh5hnselq7ng7vn7tllfxttdzfq9x5slp4w56zj5rypk344v03d9hns8r3lps82kya5f2kq7xs36c6sw": {
+        "refunds": [
+            {
+                "originalTx": "6f0391507106b2e8386fc0a37e797de222a407b65c0d48e54021d64bcd6a5043",
+                "refundTx": "060d0bcbb3e3cfabdf1ef713b74316df77ab23b26ba6d3babaa8c838d224cc3c"
+            }
+        ]
+    },
+    "addr1qyfta58taczvvzz6xw3tq8cce7xms2nrxaf6ph2qkprz6la57dj6qe4y2lvjd6fdlxvppn27p5xkl3x93csr0075kf9scmevmp": {
+        "refunds": [
+            {
+                "originalTx": "977ad57de7e39ef59b68184a2b3ec811702d005c81882ae95aa6fdd1f51f7706",
+                "refundTx": "d4d9d14718bfa7d4765e56857c1b78a3d269469ee27733c85b9d72aac851298b"
+            },
+            {
+                "originalTx": "d4d9d14718bfa7d4765e56857c1b78a3d269469ee27733c85b9d72aac851298b",
+                "refundTx": "d20c331db6ca2e84041bfd453557e0140d2f0377ebc03c3871b8289c2f9e617e"
+            }
+        ]
+    },
+    "addr1qxwlrczpzn6k85h7s43uy6dkqn04f2x6sl8fxf3qfpfpuq47ks9vlj60cyjm54y6zg0nhg3m2ge5watxcj9fglpgn8ys5lvtvp": {
+        "refunds": [
+            {
+                "originalTx": "f517b534d544e53be7bbdcf14b9396fab56fce993a0329c1a96f7b316c40cc4f",
+                "refundTx": "6cd541537d1e5753a0848253e3b36df5a4f7bd0109b57230d0a37520f403f18f"
+            }
+        ]
+    },
+    "addr1qxxdg2y7vafxaj5u3tseepewtj940lqx6073nt0gjqfs8dv4gquu230krtcf23w79fs4qq9dgtvg38dl67rvz57urrjsfx726r": {
+        "refunds": [
+            {
+                "originalTx": "26abe25127ecbde2aa5af54d14bd9a409118eef5767dca66ece919ce7c3a10a2",
+                "refundTx": "07c8639e9ada98f34550f8bcc6dea02929fa35053364efb3ee5d198b8065bb79"
+            }
+        ]
+    },
+    "addr1q80y69hc65pz6zgawqwuql2p40q6lucappqytnwaup7xjdhukv4lykj0qhakjxcnfag2phdgllkdkwtmkkrgcdygralqhu3neu": {
+        "refunds": [
+            {
+                "originalTx": "9e1b988f252569609170e813f7d97929af971d7291c0f03e82deafa50518ac56",
+                "refundTx": "9265791a4f90092ef2e2a328f51793c8fc3c60a843adca260bc317ff82e1ecdc"
+            }
+        ]
+    },
+    "addr1qxm6qnsurf9ldx2s6rswas6hr0u0g04naps25t334d95uz0gsqg6yg4fv8q5t05pze63l3szf7rqzgqkcl38q8f60m8se9gzc9": {
+        "refunds": [
+            {
+                "originalTx": "ee96f215441530bc27086785d7849f0b1f1f5a4c0b70138147b325d92f99545a",
+                "refundTx": "3021566bc380cf26348ee6a6cf4b287b80a8597eedabeab90e1237d588c7769a"
+            }
+        ]
+    }
+}
